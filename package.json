@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code-2024",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "day:01": "node src/day-01.mjs"
+  }
+}
